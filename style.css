@@ -1,0 +1,16 @@
+body {}
+h1 {
+  font-family: Monospace;
+  color: #87CEEB;
+  text-align: center;
+  font-size: 32px;
+}
+p {
+  line-height: 1.7;
+  font-family: Arial;
+  text-align: justify;
+}
+img {
+  border-radius: 45px;
+  align-items: center;
+}
